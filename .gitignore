@@ -1,3 +1,5 @@
+.DS_Store
+.gitingore
 /docs/conf.py
 /docs/_build
 

@@ -4,15 +4,12 @@
 format: jb-book
 root: intro
 parts:
-- caption: Basic examples 🪄
+- caption: 📖Contents
   chapters:
-  - file: markdown
-  - file: notebooks
-  - file: markdown-notebooks
-- caption: Cool extensions 🕶️
-  chapters:
-  - file: intersphinx
-  - file: sphinx-examples
-  - file: sphinx-hoverxref
-  - file: sphinx-proof
+  - file: toolbox
+  - file: nlp
+  - file: semantic
+  - file: syntax
+  - file: AI_for_psycholinguistics
+  - file: FAQ
 
