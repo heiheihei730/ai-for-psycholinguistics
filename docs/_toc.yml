@@ -4,12 +4,18 @@
 format: jb-book
 root: intro
 parts:
-- caption: 📖Contents
+- caption: ✊ Foundations
   chapters:
-  - file: toolbox
   - file: nlp
+  - file: toolbox
+- caption: 📖 Contents
+  chapters:
   - file: semantic
   - file: syntax
-  - file: AI_for_psycholinguistics
-  - file: FAQ
+  - file: language_task
+- caption: 📖 Others
+  chapters:
+  - file: code
+  - file: faq
+  - file: resource
 
