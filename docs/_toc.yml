@@ -15,7 +15,6 @@ parts:
   - file: language_task
 - caption: 📖 Others
   chapters:
-  - file: code
   - file: faq
   - file: resource
 
