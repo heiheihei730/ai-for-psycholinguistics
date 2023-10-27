@@ -110,4 +110,4 @@
 
 ## 联系我们
 
-可以通过我们的[项目仓库](https://github.com/DingNLab/workshop/issues)发起新的issues来与我们联系。我们会在[FAQ](/FAQ.md)中定期回复一些问题和反馈。
+可以通过我们的[项目仓库](https://github.com/DingNLab/workshop/issues)发起新的issues来与我们联系。我们会在[FAQ](/question)中定期回复一些问题和反馈。
