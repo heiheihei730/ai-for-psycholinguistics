@@ -106,8 +106,8 @@
 
 * 关于语言与信息论如果有其他想了解的，可以参考[Information-Theoretic Approaches to Linguistics](https://sites.socsci.uci.edu/~rfutrell/teaching/itl-davis/)。
 
-* 关于这些技术在心理/神经语言学中的应用，可以参考[其他资源](/resource)中的文献
+* 关于这些技术在心理/神经语言学中的应用，可以参考[其他资源](/resource)中的文献。
 
 ## 联系我们
 
-可以通过我们的[项目仓库](https://github.com/DingNLab/workshop/issues)发起新的issues来与我们联系。我们会在[FAQ](/faq)中定期回复一些问题和反馈。
+可以通过我们的[项目仓库](https://github.com/DingNLab/workshop/issues)发起新的issues来与我们联系。我们会在[FAQ](/faq.md)中定期回复一些问题和反馈。

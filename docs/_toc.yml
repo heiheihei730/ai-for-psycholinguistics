@@ -13,8 +13,8 @@ parts:
   - file: semantic
   - file: syntax
   - file: language_task
-- caption: 📖 Others
+- caption: ❓ Others
   chapters:
-  - file: faq
   - file: resource
+  - file: faq
 
